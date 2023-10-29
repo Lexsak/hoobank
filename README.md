@@ -4,7 +4,9 @@ Download the zip folder and unzip it.
 Enter the project path in the terminal, then type npm install and after that npm start.
 You should see this project in a moment.
 
-# I advise you not to open this project in Google because Google has a problem with the blur effect (it works really well on Microsoft Edge)
+# I advise you...
+not to open this project in Google because Google has a problem with the blur effect (it works really well on Microsoft Edge)
+Check The Website: https://lexsak.github.io/hoobank/ 
 
 # What Does It Look Like
 ![image](https://github.com/Lexsak/hoobank/assets/143490317/0fcd70ca-c7b2-49a5-b3d4-5b8c848e312c)
